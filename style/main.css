@@ -90,10 +90,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Score"; }
+  content: "Aktuell"; }
 
 .best-container:after {
-  content: "Best"; }
+  content: "Höchststand"; }
 
 p {
   margin-top: 0;
